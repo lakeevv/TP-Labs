@@ -1,0 +1,6 @@
+c:\users\никита\documents\visual studio 2013\Projects\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.exe.config
+c:\users\никита\documents\visual studio 2013\Projects\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.exe
+c:\users\никита\documents\visual studio 2013\Projects\ConsoleHello\ConsoleHello\bin\Debug\ConsoleHello.pdb
+c:\users\никита\documents\visual studio 2013\Projects\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.csprojResolveAssemblyReference.cache
+c:\users\никита\documents\visual studio 2013\Projects\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.exe
+c:\users\никита\documents\visual studio 2013\Projects\ConsoleHello\ConsoleHello\obj\Debug\ConsoleHello.pdb

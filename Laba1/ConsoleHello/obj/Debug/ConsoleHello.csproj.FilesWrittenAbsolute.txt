@@ -1,0 +1,6 @@
+/media/lakeev/A8D0E11FD0E0F50A/Users/Никита/Documents/Visual Studio 2013/Projects/ConsoleHello/ConsoleHello/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/lakeev/A8D0E11FD0E0F50A/Users/Никита/Documents/Visual Studio 2013/Projects/ConsoleHello/ConsoleHello/bin/Debug/ConsoleHello.exe.config
+/media/lakeev/A8D0E11FD0E0F50A/Users/Никита/Documents/Visual Studio 2013/Projects/ConsoleHello/ConsoleHello/bin/Debug/ConsoleHello.exe.mdb
+/media/lakeev/A8D0E11FD0E0F50A/Users/Никита/Documents/Visual Studio 2013/Projects/ConsoleHello/ConsoleHello/bin/Debug/ConsoleHello.exe
+/media/lakeev/A8D0E11FD0E0F50A/Users/Никита/Documents/Visual Studio 2013/Projects/ConsoleHello/ConsoleHello/obj/Debug/ConsoleHello.exe
+/media/lakeev/A8D0E11FD0E0F50A/Users/Никита/Documents/Visual Studio 2013/Projects/ConsoleHello/ConsoleHello/obj/Debug/ConsoleHello.exe.mdb
